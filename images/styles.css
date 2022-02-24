@@ -30,7 +30,7 @@
 
 .navbar__logo {
     background-color: #ff8177;
-    background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%) ;
+    background-image: linear-gradient(to top, #f51049 0%, #ffb199 100%);
     background-size: 100%;
     -webkit-background-clip: text;
     -mozz-background-clip: text;
@@ -39,7 +39,7 @@
     display: flex;
     align-items: center;
     cursor: pointer;
-    text-decoration: none;
+    text-decoration: plum;
     font-size: 2rem;
 }
 
@@ -87,7 +87,7 @@
     border: none;
     outline: none;
     border-radius: 4px;
-    background: #ff7777;
+    background: #f17171ce;
     color: #fff;
 }
 
@@ -217,7 +217,7 @@
 .main__content h1 {
     font-size: 4rem;
     background-color: #ff8177;
-    background-image: linear-gradient(to top, #5aadc0 0%, #6caf7d 100%);
+    background-image: linear-gradient(to top, #72470e 0%, #533003 100%);
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -226,9 +226,9 @@
 }
 
 .main__content h2 {
-    font-size: 4rem;
+    font-size: 1rem;
     background-color: #ff8177;
-    background-image: linear-gradient(to top, #6caf7d 0%, #5aadc0 100%);
+    background-image: linear-gradient(to top, #533003 0%, #794809 100%);
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -245,7 +245,7 @@
 
 .main__btn {
     font-size: 1rem;
-    background-image: linear-gradient(to top, #dfa1ec 0%, #a30fb1 100%);
+    background-image: linear-gradient(to top, #3ea53e 0%, #47b359 100%);
     padding: 14px 32px;
     border: none;
     border-radius: 4px;
@@ -357,7 +357,7 @@
 
 .services h1 {
     background-color: #ff8177;
-    background-image: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b1215b 100%);
+    background-image: linear-gradient(to right, cornsilk 0, cornsilk 100%, cornsilk 100%, cornsilk 100%, cornsilk 100%, cornsilk 100%);
     background-size: 100%;
     margin-bottom: 5rem;
     font-size: 2.5rem;
@@ -378,7 +378,7 @@
     height: 525px;
     width: 400px;
     border-radius: 4px;
-    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('/images/coffee.jpg');
+    background-image: linear-gradient(to bottom, #00000000 0%, #11111199 100%), url('/images/coffee.jpg');
     background-size: cover;
     position: relative;
     color: #fff;
